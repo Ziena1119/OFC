@@ -1,0 +1,9 @@
+
+    .card {
+        width: 250px;
+        height: 400px;
+        margin: 50px;
+    }
+    .card:hover {
+        background: black no-repeat;
+    }
